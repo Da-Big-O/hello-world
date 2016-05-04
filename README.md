@@ -1,2 +1,2 @@
 # hello-world
-Sample repository
+Angula 2 seems to bring about some exciting features...
